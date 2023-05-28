@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(61, 125, 125);
+}
+#title{
+    font-size: 40px;
+    
+}
+h2{
+    background-color: rgb(81, 173, 84);
+}
+#sigpic{
+   
+    border-radius:25px;
+    
+}
+p{
+    font-size: 30px;
+    color: pink;
+}
+#palace{
+    color: black;
+}
+#fortress{
+    color: black;
+}
+#temple{
+    color: black;
+}
+
